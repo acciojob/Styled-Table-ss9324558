@@ -1,1 +1,19 @@
 /* your code */
+.exam-report,tr,td{
+	background: white;
+	border: 1px solid whitesmoke;
+	border-collapse: collapse;
+	border-radius: 5px;
+	padding: 5px 20px;
+}
+
+
+th{
+	padding: 5px 20px;
+    text-align: center;
+	background: grey;
+}
+
+td{
+	color: green;
+}
